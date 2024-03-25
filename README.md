@@ -2,6 +2,9 @@ A Small project which uses the OpenAI API.
 **Here's a link to a blog i wrote on how i built this project:
 **https://medium.com/@code-by-crystal/create-a-simple-full-stack-ai-app-f12c95609b1d
 
+![image](https://github.com/crystalz411/superhero-cat-ai/assets/43583741/e8392920-233b-441f-8dcf-2e82d39adea6)
+
+
 
 
 # Getting Started with Create React App
