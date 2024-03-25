@@ -1,3 +1,9 @@
+A Small project which uses the OpenAI API.
+Here's a link to a blog i wrote on how i built this project:
+https://medium.com/@code-by-crystal/create-a-simple-full-stack-ai-app-f12c95609b1d
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
